@@ -3,6 +3,7 @@ I wrote a short program that reads one or more sentences from standard input (th
 ## Output
 First, I tried the program using a single sentence entered at the keyboard as input.  
 ### For example:
+
 To be or not to be; that is the question!
 The output for this sentence should resemble the following:
 Number of Words: 10
