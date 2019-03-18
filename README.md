@@ -7,6 +7,9 @@ First, I tried the program using a single sentence entered at the keyboard as in
 To be or not to be; that is the question!
 
 The output for this sentence should resemble the following:
+
 Number of Words: 10
+
 Average Word Length: 3
+
 Maximum Word Length: 8
